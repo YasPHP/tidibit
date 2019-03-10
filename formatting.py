@@ -1,4 +1,4 @@
-name = "Joe"
+name = "Joe"              #user attributes
 age = 65
 career = "Doctor"
 
