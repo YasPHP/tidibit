@@ -1,3 +1,5 @@
+def countdown():
+    
 print("Ready?\n Set..")
 
     countdown = 3
