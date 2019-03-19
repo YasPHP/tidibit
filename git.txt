@@ -1,0 +1,7 @@
+When you have multiple branches:
+-make sure you are working on the branch you want to commit and git push to
+-> To do this on Pycharm, make sure you check out the local branch you want to work in 
+-> The branch you are in cannot be different than the one you want to be in, unless you have merging in mind 
+
+-It is best to make most changes in IDE and not in the online repository (ie.Github)
+-> If you make changes online, make sure to Rebase so the local repository is updated accordingly
