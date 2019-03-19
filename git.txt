@@ -5,3 +5,4 @@ When you have multiple branches:
 
 -It is best to make most changes in IDE and not in the online repository (ie.Github)
 -> If you make changes online, make sure to Rebase so the local repository is updated accordingly
+-> Make branches on IDE for ease
