@@ -1,0 +1,33 @@
+ctrl+h = Find and replace
+F5 = Debugger and can run code but it will show keys 
+tab = indents block of code
+shift + tab = reverse indents block of code
+
+
+On Git Bash 
+Get absolute path
+
+cd .. until empty path 
+
+Then put full path to file directory in question for say the file you want
+to run
+
+ie.  cd 'desktop/schooly/s&s'
+
+use the command: pwd
+-to see which directory you are currently in 
+
+Errors 
+unindent does not match any outer indentation level = mixed spaces and tabs
+
+A "callable" object (function, method, lambda or class)
+
+
+Help
+
+https://www.programiz.com/python-programming/examples
+https://www.pythonforbeginners.com/
+https://www.coursera.org/learn/interactive-python-1/home/welcome
+https://www.youtube.com/watch?v=QXeEoD0pB3E&list=PLsyeobzWxl7poL9JTVyndKe62ieoN-MZ3
+https://python-textbok.readthedocs.io/en/1.0/Variables_and_Scope.html
+
