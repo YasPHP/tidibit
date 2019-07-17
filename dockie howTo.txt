@@ -1,0 +1,25 @@
+You use docker to launch
+In this case you'd use docker-compose up
+(you only have 1 configuration yml so it  knows to use that)
+After that, if you need to execute commands inside the web container
+Let's say manually running migrations
+You use docker exec - it CONTAINER_NAME bash
+I believe CONTAINER_NAME should be schooly_web
+
+
+$ docker kill $(docker ps -q)
+$ docker rm $(docker ps -a -q)
+$ docker rmi $(docker images -q)
+$ docker system prune - f
+$ docker rmi -f $(docker images -q)
+$ docker-compose up
+
+
+cd C:/ Users/yasme/schooly/schooly/web
+
+^double check with texts, unix vs LTS and slash switches
+
+
+VS Code terminal 
+
+cd /c/Users/yasme/Desktop/schooly/schooly/web
